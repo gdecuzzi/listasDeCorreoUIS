@@ -6,8 +6,8 @@
 
   <parent>
 	<groupId>org.uqbar-project</groupId>
-	<artifactId>uqbar-examples-xtend-parent</artifactId>
-	<version>2.7.3</version>
+    <artifactId>arena-xtend-parent</artifactId>
+    <version>3.6.2</version>
   </parent>
   
   <dependencies>
@@ -15,6 +15,12 @@
 	  <groupId>org.mockito</groupId>
 	  <artifactId>mockito-core</artifactId>
 	  <version>1.10.19</version>
+  	</dependency>
+  	
+  	<dependency>
+	  <groupId>junit</groupId>
+	  <artifactId>junit</artifactId>
+	  <version>4.12</version>
   	</dependency>
   </dependencies>
 
